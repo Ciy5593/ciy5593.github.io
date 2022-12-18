@@ -1,5 +1,5 @@
 # Site settings
-title: "Jekyll Resume Template"
+title: "Developer Choi"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Inn-yeong Choi"
+resume_name:                    "최인영"
 resume_title:                   "Web Developer"
 
 # used for the contact button in _layouts/resume.html

@@ -1,11 +1,11 @@
 # Skills
 # Organizational leadership
-- skill: Backend
-  description: python / nodejs / celery / docker
+- skill: <span style="color:blue">Backend</span>
+  description: <span style="color:blue">python / nodejs / celery / docker</span>
   
   # Organizational leadership
-- skill: Frontend
+- skill: <span style="color:blue">Frontend</span>
   
 # Communications strategy
-- skill: JavaScript
-  description: ES2015이후의 자바스크립트를 사용하고, 원래를 이해하기 위해 꾸준히 공부합니다
+- skill: <span style="color:blue">JavaScript</span>
+  description: <span style="color:blue">ES2015이후의 자바스크립트를 사용하고, 원래를 이해하기 위해 꾸준히 공부합니다</span>

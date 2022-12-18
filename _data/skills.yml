@@ -3,6 +3,9 @@
 - skill: Backend
   description: python / nodejs / celery / docker
   
+  # Organizational leadership
+- skill: Frontend
+  
 # Communications strategy
 - skill: JavaScript
   description: ES2015이후의 자바스크립트를 사용하고, 원래를 이해하기 위해 꾸준히 공부합니다

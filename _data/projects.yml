@@ -1,15 +1,15 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# futuredream
-- project: futuredream.io
-  role: Web Developer
-  duration: 2022 &mdash; Present
+# <span style="color:blue"> futuredream</span>
+- project: <span style="color:blue"> futuredream.io</span>
+  role: <span style="color:blue"> Web Developer</span>
+  duration: <span style="color:blue"> 2022 &mdash; Present</span>
   # url: "#"
  
-# game homepage 
-- project: rpggame.homepage.io
-  role: Web Developer
-  duration: 2023 &mdash; Present
+# <span style="color:blue"> game homepage </span>
+- project: <span style="color:blue"> rpggame.homepage.io</span>
+  role: <span style="color:blue"> Web Developer</span>
+  duration: <span style="color:blue"> 2023 &mdash; Present</span>
   # url: "#"
  
